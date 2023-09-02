@@ -1,0 +1,16 @@
+Name of Quantlet: msic-dasoq_2019_04_violations
+
+Published in: 'Monetary stabilization in cryptocurrencies–design approaches and open questions (Pernice et al., 2019)'
+
+Description: "This quantlet calculates peg-deviations for the stable coins that are already traded and gives a descriptive table."
+
+Keywords: stablecoins, peg-deviations, plot
+
+Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann 
+
+See also: other Quantlets in this project
+
+Submitted: 12.09.2023
+
+Datafile: "table_stablecoin.org (a representation of the survey results), data.Rda (the output of the quantlet msic-dasoq_2019_02_prepare_data)"
+

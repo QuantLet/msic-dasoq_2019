@@ -1,0 +1,16 @@
+Name of Quantlet: msic-dasoq_2019_01_import_survey_data
+
+Published in: 'Monetary stabilization in cryptocurrencies–design approaches and open questions (Pernice et al., 2019)'
+
+Description: "Generate a table of the fractions with respect to the individual monetary regimes, exchange rate arrangements and stability techniques."
+
+Keywords: descriptives
+
+Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann
+
+See also: other Quantlets in this project
+
+Submitted: 02.07.2023
+
+Datafile: table_stablecoin.org
+
