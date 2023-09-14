@@ -4,7 +4,7 @@ Published in: 'Monetary stabilization in cryptocurrencies–design approaches an
 
 Description: "Load and clean raw data from CSVs from CoinmarketCap and blockchair. Calculate peg deviations, returns, volatility, coin supply, and other variables that are used in the paper for providing descriptives. "
 
-Keywords: descriptives, peg deviations, coin supply, volatility
+Keywords: descriptives, peg deviations, coin supply, volatility, bitcoin, pricing, economics, stablecoin
 
 Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann
 

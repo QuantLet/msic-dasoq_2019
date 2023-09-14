@@ -4,7 +4,7 @@ Published in: 'Monetary stabilization in cryptocurrencies–design approaches an
 
 Description: "This quantlet calculates peg-deviations for the stable coins that are already traded and gives a descriptive table."
 
-Keywords: stablecoins, peg-deviations, plot
+Keywords: stablecoins, peg-deviations, plot, bitcoin, pricing, economics, stablecoin
 
 Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann 
 

@@ -4,7 +4,7 @@ Published in: 'Monetary stabilization in cryptocurrencies–design approaches an
 
 Description: "Generate a table of the fractions with respect to the individual monetary regimes, exchange rate arrangements and stability techniques."
 
-Keywords: descriptives
+Keywords: descriptives, bitcoin, pricing, economics, stablecoin
 
 Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann
 

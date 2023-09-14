@@ -1,10 +1,10 @@
-Name of Quantlet: msic-dasoq_2019_05_arr_reg_plot
+Name of Quantlet: msic-dasoq_2019_07_arr_reg_plot
 
 Published in: 'Monetary stabilization in cryptocurrencies–design approaches and open questions (Pernice et al., 2019)'
 
 Description: "This quantlet uses the raw results of the survey and gives a plot of the results. It gives a bar chart of the exchange rate regimes employed by the stablecoin projects. "
 
-Keywords: stablecoins, survey data, stability, plot, exchange rate regimes
+Keywords: stablecoins, survey data, stability, plot, exchange rate regimes, bitcoin, pricing, economics
 
 Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann
 

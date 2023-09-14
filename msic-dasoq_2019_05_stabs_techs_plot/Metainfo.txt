@@ -4,7 +4,7 @@ Published in: 'Monetary stabilization in cryptocurrencies–design approaches an
 
 Description: "This quantlet uses the raw results of the survey and gives a plot of the results. It gives a bar chart of the stability techniques employed by the stablecoin projects. "
 
-Keywords: stablecoins, survey data, stability, plot 
+Keywords: stablecoins, survey data, stability, plot, bitcoin, pricing, economics 
 
 Author: Ingolf Pernice, Sebastian Henningsen, Roman Proskalovich, Martin Florian, Hermann Elendner, Björn Scheuermann 
 
