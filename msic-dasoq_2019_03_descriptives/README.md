@@ -9,7 +9,7 @@ Name of Quantlet: msic-dasoq_2019_01_descriptives
 
 Published in: Monetary stabilization in cryptocurrencies–design approaches and open questions (Pernice et al., 2019)
 
-Description: Load and clean raw data from CSVs from CoinmarketCap and blockchair. Calculate peg deviations, returns, volatility, coin supply, and other variables that are used in the paper for providing descriptives. 
+Description: Load and clean raw data from CSVs from CoinmarketCap and blockchair. Calculate peg deviations, returns, volatility, coin supply, and other variables that are used in the paper for providing descriptives.
 
 Keywords: descriptives, peg deviations, coin supply, volatility, bitcoin, pricing, economics, stablecoin
 
@@ -19,7 +19,7 @@ See also: other Quantlets in this project
 
 Submitted: 02.09.2023
 
-Datafile: see the files within the subfolder "data
+Datafile: see the files within the subfolder "data"
 
 ```
 <div align="center">
